@@ -1,4 +1,7 @@
-<img src="https://travessiadigital.pt/marca/travessia-logo-escuro.svg" alt="Travessia Digital" width="220">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="travessia-logo-claro.png">
+  <img src="travessia-logo-escuro.png" alt="Travessia Digital" width="220">
+</picture>
 
 **Sites, painel e marcações para negócios locais.** Feito em Braga.
 
